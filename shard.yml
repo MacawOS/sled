@@ -1,0 +1,17 @@
+name: sled
+version: 0.1.0
+
+authors:
+  - bo <straw@pinnoto.org>
+
+targets:
+  sled:
+    main: src/sled.cr
+
+dependencies:
+  x11:
+    github: TamasSzekeres/x11-cr
+
+crystal: 1.2.2
+
+license: GPL-3.0
