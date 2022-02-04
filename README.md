@@ -1,5 +1,5 @@
 # sled
-Sled is a highly customizable floating window manager written in Crystal
+(WIP!) Sled is a customizable floating window manager written in Crystal
 
 ## Installation
 TODO: Write installation instructions here
