@@ -1,5 +1,5 @@
 # sled
-Sled is a minimalist, highly customizable window manager written in Crystal
+Sled is a highly customizable floating window manager written in Crystal
 
 ## Installation
 TODO: Write installation instructions here
@@ -8,7 +8,14 @@ TODO: Write installation instructions here
 TODO: Write usage instructions here
 
 ## Development
-TODO: Write development instructions here
+This project has the following goals in mind:
+- Speed and streamlined usage (by keeping the code small and efficient and adding useful and time-saving features)
+- A modern and pleasant default look, in addition to stylistic features expected from a modern window manager
+- Easy configuration (2 readable configuration files, one for the theme and another for general settings) 
+- To work in conjunction with other Macaw software in order to create a happy desktop experience
+- Client that allows for interacting with the window manager
+- Having a complete title bar
+- EWMH compliance
 
 ## Contributing
 1. Fork it (<https://github.com/acoolstraw/sled/fork>)
